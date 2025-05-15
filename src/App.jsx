@@ -40,7 +40,7 @@ function App() {
         <div className="container mx-auto flex justify-between items-center">
           <div className="flex items-center space-x-2">
             <CameraIcon className="h-7 w-7 text-primary" />
-            <h1 className="text-xl font-bold text-primary dark:text-primary-light">VigilTrack</h1>
+            <h1 className="text-xl font-bold text-primary dark:text-primary-light">VivekTrack</h1>
           </div>
           
           <button 
@@ -80,7 +80,7 @@ function App() {
       {/* Footer */}
       <footer className="bg-white dark:bg-surface-800 py-4 px-4 mt-auto">
         <div className="container mx-auto text-center text-sm text-surface-500">
-          <p>© {new Date().getFullYear()} VigilTrack. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} VivekTrack. All rights reserved.</p>
         </div>
       </footer>
 
